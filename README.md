@@ -13,7 +13,7 @@ TESTING PURPOSE
 10. [Given two timestamps of the same day: a number of hours, minutes and seconds for both of the timestamps. The moment of the first timestamp happened before the moment of the second one. Calculate how many seconds passed between them.](1.7.md)
 11. [Write a program to calculate the distance between two points](1.8.md)
 12. [Given a three-digit number. Find the sum of its digits](2.5.md)
-13. []()
+13. [Given an integer, print "odd" if it's odd and print "even" otherwise](3.1.md)
 14. []()
 15. []()
 16. []()
