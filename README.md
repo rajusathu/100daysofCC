@@ -22,4 +22,4 @@ TESTING PURPOSE
 19. [Digit in Number](5.D.md)
 20. [JugsMugsPugs](3.R.md)
 21. [JugsMugsPugs Plus](3.U.md)
-22. []()
+22. [JugsMugsPugs LITE](3.S.md)
