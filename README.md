@@ -19,7 +19,7 @@ TESTING PURPOSE
 16. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017](3.9.md)
 17. [Jugs for Three](3.P.md)
 18. [JugsMugs for Three and Five](3.Q.md)
-19. [Digit in Number](5.D/md)
+19. [Digit in Number](5.D.md)
 20. []()
 21. []()
 22. []()
