@@ -18,7 +18,7 @@ TESTING PURPOSE
 15. [Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON](3.J.md)
 16. [Given a month - an integer from 1 to 12, print the number of days in it in the year 2017](3.9.md)
 17. [Jugs for Three](3.P.md)
-18. []()
+18. [JugsMugs for Three and Five](3.Q.md)
 19. []()
 20. []()
 21. []()
