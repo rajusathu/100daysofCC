@@ -9,7 +9,7 @@ TESTING PURPOSE
 6. [Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below](1.3Print.md)
 7. [Write a program that reads an integer number and prints its previous and next numbers. See the example below](1.4Previous.md)
 8. [N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](1.5.md)
-9. []()
+9. [Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight?](1.6.md)
 10. []()
 11. []()
 12. []()
