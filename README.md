@@ -5,7 +5,7 @@ TESTING PURPOSE
 2. [Maze Completion Using Left Wall](0.3HugLeft.md)
 3. [Maze Completion Using Right Wall](0.3HugRight.md)
 4. [Write a program that takes three numbers and prints their sum. Every number is given on a separate line](1.1Sum.md)
-5. []() 
+5. [Write a program that reads the length of the base and the height of a right-angled triangle and prints the area. Every number is given on a separate line.](1.2Area.md) 
 6. []()
 7. []()
 8. []()
