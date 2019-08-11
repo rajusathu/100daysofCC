@@ -21,5 +21,5 @@ TESTING PURPOSE
 18. [JugsMugs for Three and Five](3.Q.md)
 19. [Digit in Number](5.D.md)
 20. [JugsMugsPugs](3.R.md)
-21. []()
+21. [JugsMugsPugs Plus](3.U.md)
 22. []()
